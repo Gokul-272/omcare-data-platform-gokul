@@ -1,5 +1,5 @@
 
-
+ Addedq Workflow
 1. Push the feature branch (feature/gokul-setup) to GitHub.
 
 2. Create a Pull Request (PR) from feature/gokul-setup into the main branch.
@@ -9,7 +9,5 @@
 4. Address any review comments by making the required changes and pushing additional commits to the same feature branch.
 
 5. Once the PR is approved and all checks pass, merge the PR into the main branch.
-
-6. After merging, the deployment pipeline is triggered automatically (or manually if required) to deploy the latest changes to the target environment.
-
+6. After merging, the deployment pipeline is triggered automatically (or manually if required) to deploy the latest changes to the target environment
 7. Verify that the deployment completed successfully and the application is working as expected.
